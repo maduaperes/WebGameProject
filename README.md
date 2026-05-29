@@ -1,4 +1,4 @@
-# WebGameProject
+# PWA Web Game
 
 O WebGameProject é um jogo desenvolvido para navegador utilizando HTML, CSS e JavaScript.  
 Ele conta com telas de menu, instruções e gameplay, além de suporte como Progressive Web App (PWA), permitindo instalação em dispositivos móveis e desktop.
