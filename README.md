@@ -1,6 +1,6 @@
 # PWA Web Game
 
-O WebGameProject é um jogo desenvolvido para navegador utilizando HTML, CSS e JavaScript.  
+O PWA Web Game é um jogo desenvolvido para navegador utilizando HTML, CSS e JavaScript.  
 Ele conta com telas de menu, instruções e gameplay, além de suporte como Progressive Web App (PWA), permitindo instalação em dispositivos móveis e desktop.
 
 ---
@@ -53,7 +53,7 @@ Este projeto foi desenvolvido com foco em aprendizado e prática de desenvolvime
 # Estrutura do Projeto
 
 ```bash
-webgameproject/
+pwa-web-game/
 │
 ├── CSS/
 │   ├── menu.css
@@ -84,13 +84,13 @@ webgameproject/
 ## 1. Clonar o repositório
 
 ```bash id="k1m9pq"
-git clone https://github.com/seu-usuario/webgameproject.git
+git clone https://github.com/maduaperes/pwa-web-game.git
 ```
 
 ## 2. Acessar a pasta do projeto
 
 ```bash id="n4v2sd"
-cd webgameproject
+cd pwa-web-game
 ```
 
 ## 3. Abrir no navegador
@@ -113,7 +113,7 @@ Abra o arquivo `index.html` diretamente no navegador.
 
 # Autor
 
-Projeto desenvolvido para fins educacionais, com o objetivo de praticar desenvolvimento web e criação de jogos utilizando tecnologias front-end.
+Projeto desenvolvido por Madu Peres para fins educacionais, com o objetivo de praticar desenvolvimento web e criação de jogos utilizando tecnologias front-end.
 
 ---
 
