@@ -1,56 +1,56 @@
 # WebGameProject
 
-WebGameProject is a browser-based game developed using HTML, CSS, and JavaScript.  
-It features multiple screens including a main menu, instructions page, and gameplay system, along with PWA support for installation on mobile and desktop devices.
+O WebGameProject é um jogo desenvolvido para navegador utilizando HTML, CSS e JavaScript.  
+Ele conta com telas de menu, instruções e gameplay, além de suporte como Progressive Web App (PWA), permitindo instalação em dispositivos móveis e desktop.
 
 ---
 
-# Objective
+# Objetivo
 
-This project was created for learning and practicing front-end development and browser game creation, focusing on:
+Este projeto foi desenvolvido com foco em aprendizado e prática de desenvolvimento front-end e criação de jogos para web, explorando:
 
-- DOM manipulation using JavaScript
-- Interactive user interfaces
-- Game logic implementation
-- Responsive layout design
-- Progressive Web App (PWA) structure
+- Manipulação do DOM com JavaScript  
+- Criação de interfaces interativas  
+- Implementação de lógica de jogo  
+- Design responsivo  
+- Estrutura de Progressive Web App (PWA)
 
 ---
 
-# Technologies Used
+# Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML5  
+- CSS3  
+- JavaScript  
 - Progressive Web App (PWA)
 
 ---
 
-# Features
+# Funcionalidades
 
-## Main Menu
-- Game entry screen
-- Navigation between pages
-- Simple and intuitive interface
+## Menu Principal
+- Tela inicial do jogo  
+- Navegação entre páginas  
+- Interface simples e intuitiva  
 
-## Gameplay System
-- Interactive logic built with JavaScript
-- Dynamic game behavior
-- Event-driven interactions
+## Sistema de Jogo
+- Lógica interativa desenvolvida em JavaScript  
+- Comportamento dinâmico  
+- Interações baseadas em eventos  
 
-## Instructions Screen
-- Game rules explanation
-- User guidance
-- Easy navigation
+## Tela de Instruções
+- Explicação das regras do jogo  
+- Orientação para o jogador  
+- Navegação facilitada  
 
-## PWA Support
-- Web app manifest configuration
-- Multi-platform icons (Android, iOS, Windows)
-- Installable application support
+## Suporte PWA
+- Configuração de manifest  
+- Ícones para Android, iOS e Windows  
+- Possibilidade de instalação como aplicativo  
 
 ---
 
-# Project Structure
+# Estrutura do Projeto
 
 ```bash
 webgameproject/
@@ -79,43 +79,44 @@ webgameproject/
 
 ---
 
-# How to Run the Project
+# Como Executar o Projeto
 
-1. Clone the repository:
+## 1. Clonar o repositório
 
-```bash id="2x9kld"
-git clone https://github.com/your-username/webgameproject.git
+```bash id="k1m9pq"
+git clone https://github.com/seu-usuario/webgameproject.git
 ```
 
-2. Navigate to the project folder:
+## 2. Acessar a pasta do projeto
 
-```bash id="m7q3fd"
+```bash id="n4v2sd"
 cd webgameproject
 ```
 
-3. Open `index.html` in your browser.
+## 3. Abrir no navegador
+
+Abra o arquivo `index.html` diretamente no navegador.
 
 ---
 
-# Future Improvements
+# Melhorias Futuras
 
-* Score system
-* Sound effects and music
-* Player ranking system
-* Save game progress
-* Advanced animations
-* Multiplayer mode
-* Improved responsiveness
-
----
-
-# Author
-
-This project was developed for educational purposes to practice web development and game creation using frontend technologies.
+* Sistema de pontuação
+* Sons e efeitos sonoros
+* Ranking de jogadores
+* Salvamento de progresso
+* Animações avançadas
+* Modo multiplayer
+* Melhor responsividade
 
 ---
 
-# License
+# Autor
 
-This project is available for educational use and learning purposes.
+Projeto desenvolvido para fins educacionais, com o objetivo de praticar desenvolvimento web e criação de jogos utilizando tecnologias front-end.
 
+---
+
+# Licença
+
+Este projeto está disponível para fins de estudo e aprendizado.
